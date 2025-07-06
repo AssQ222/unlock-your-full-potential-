@@ -1,0 +1,10 @@
+streamlit==1.46.1
+pandas
+matplotlib
+pillow
+numpy
+opencv-python-headless
+mediapipe
+openai
+python-dotenv
+pytest
